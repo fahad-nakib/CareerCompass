@@ -50,6 +50,7 @@ CareerCompass simplifies the study abroad journey by offering:
 
 | Role | UI Preview |
 |------|------------|
+|Front Page |![Student Dashboard](./screenshots/Screenshot_16.png)|
 | Student Dashboard | ![Student Dashboard](./screenshots/student-dashboard.png) |
 | University Portal | ![University Portal](./screenshots/university-portal.png) |
 | Professor Interface | ![Professor Interface](./screenshots/professor-interface.png) |
