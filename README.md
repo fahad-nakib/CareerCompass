@@ -6,16 +6,29 @@
 
 ---
 
-## 🌐 Overview
+## 📸 User Interface Previews
 
-CareerCompass simplifies the study abroad journey by offering:
+| Role | Feature | UI Preview |
+|------|---------|------------|
+| Student |Front Page |![Student Dashboard](./screenshots/Screenshot_16.png)|
+| Student | Student Dashboard | ![Student Dashboard](./screenshots/student-dashboard.png) |
+| Student | Searchin Program | ![University Portal](./screenshots/Screenshot_4.png) |
+| Student | Saved Programs | ![Student Dashboard](./screenshots/Screenshot_3.png) |
+| Student | View Program | ![University Portal](./screenshots/Screenshot_4.png) |
+| Student | Application Form | ![Professor Interface](./screenshots/Screenshot_5.png) |
+| University | Dashboard | ![Admin Panel](./screenshots/Screenshot_12.png) |
+| University | Scholarship Management | ![Admin Panel](./screenshots/Screenshot_10.png) |
+| University | Manage Applications | ![Admin Panel](./screenshots/Screenshot_11.png) |
+| University | Add New Program | ![Admin Panel](./screenshots/Screenshot_15.png) |
+| University | Students Application | ![Admin Panel](./screenshots/Screenshot_9.png) |
+| Professor | Dashboard | ![Admin Panel](./screenshots/Screenshot_17.png) |
+| Professor | Profile Management | ![Admin Panel](./screenshots/Screenshot_18.png) |
+| System Admin | Dashboard | ![Admin Panel](./screenshots/Screenshot_14.png) |
+| System Admin | Register University | ![Admin Panel](./screenshots/Screenshot_13.png) |
+| System Admin | Revoke Approval | ![Admin Panel](./screenshots/Screenshot_8.png) |
 
-- 🎯 Personalized program exploration
-- ✍️ Guided, step-by-step application process
-- 📊 Real-time application status tracking
-- 🏫 University program and scholarship management
-- 👨‍🏫 Direct support from professors and admission officers
-- 🔐 Secure system management by administrators
+
+
 
 ---
 
@@ -45,23 +58,6 @@ CareerCompass simplifies the study abroad journey by offering:
 - Manage user access and permissions
 
 ---
-
-## 📸 User Interface Previews
-
-| Role | Feature | UI Preview |
-|------|---------|------------|
-| Student |Front Page |![Student Dashboard](./screenshots/Screenshot_16.png)|
-| Student | Student Dashboard | ![Student Dashboard](./screenshots/student-dashboard.png) |
-| Student | Student Profile | ![Student Dashboard](./screenshots/student-dashboard.png) |
-| Student | Students Applications Dashboard | ![Student Dashboard](./screenshots/student-dashboard.png) |
-| Student | University Portal | ![University Portal](./screenshots/university-portal.png) |
-| Student | Professor Interface | ![Professor Interface](./screenshots/professor-interface.png) |
-| Student | Admin Panel | ![Admin Panel](./screenshots/admin-panel.png) |
-
-> 📌 *Note: Replace the image paths with your actual screenshots.*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript / React / Tailwind
