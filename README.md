@@ -48,15 +48,15 @@ CareerCompass simplifies the study abroad journey by offering:
 
 ## 📸 User Interface Previews
 
-| Role | UI Preview |
-|------|------------|
-|Front Page |![Student Dashboard](./screenshots/Screenshot_16.png)|
-| Student Dashboard | ![Student Dashboard](./screenshots/student-dashboard.png) |
-| Student Profile | ![Student Dashboard](./screenshots/student-dashboard.png) |
-| Student Applications | ![Student Dashboard](./screenshots/student-dashboard.png) |
-| University Portal | ![University Portal](./screenshots/university-portal.png) |
-| Professor Interface | ![Professor Interface](./screenshots/professor-interface.png) |
-| Admin Panel | ![Admin Panel](./screenshots/admin-panel.png) |
+| Role | Feature | UI Preview |
+|------|---------|------------|
+| Student |Front Page |![Student Dashboard](./screenshots/Screenshot_16.png)|
+| Student | Student Dashboard | ![Student Dashboard](./screenshots/student-dashboard.png) |
+| Student | Student Profile | ![Student Dashboard](./screenshots/student-dashboard.png) |
+| Student | Students Applications Dashboard | ![Student Dashboard](./screenshots/student-dashboard.png) |
+| Student | University Portal | ![University Portal](./screenshots/university-portal.png) |
+| Student | Professor Interface | ![Professor Interface](./screenshots/professor-interface.png) |
+| Student | Admin Panel | ![Admin Panel](./screenshots/admin-panel.png) |
 
 > 📌 *Note: Replace the image paths with your actual screenshots.*
 
