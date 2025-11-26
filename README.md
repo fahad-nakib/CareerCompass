@@ -67,18 +67,3 @@
 - **Hosting:** Vercel / Netlify / Heroku / AWS
 
 ---
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js / Python installed
-- Database setup (e.g., MongoDB or MySQL)
-- Git & GitHub
-
-### Installation
-
-```bash
-git clone https://github.com/yourusername/careercompass.git
-cd careercompass
-npm install   # or pip install -r requirements.txt (if using Python)
