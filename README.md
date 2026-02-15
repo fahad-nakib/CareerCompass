@@ -1,39 +1,38 @@
-# 🎓 CareerCompass
+# CareerCompass
 
 **CareerCompass** is a smart web platform that helps students find and apply for higher education programs abroad. It bridges the gap between students, universities, professors, and admission officers — all in one centralized and user-friendly system.
 
-![CareerCompass Logo](./assets/logo.png) <!-- Replace with your logo if available -->
 
 ---
 
-## 👥 User Roles & Features
+## User Roles & Features
 
-### 🎓 Students
+### Students
 - Explore bachelor's, master's, and PhD programs
 - Filter by country, subject, or university
 - Apply through a guided step-by-step interface
 - Communicate directly with professors and officers
 - Track application and visa status
 
-### 🏛️ Universities
+### Universities
 - Register and maintain institutional profiles
 - Manage available programs and scholarships
 - Review and manage student applications
 - Communicate with potential students
 
-### 👨‍🏫 Professors & Admission Officers
+### Professors & Admission Officers
 - View and respond to student queries
 - Offer guidance and feedback
 - Recommend suitable programs
 
-### 🛡️ System Admins
+### System Admins
 - Verify user identities and institutional registrations
 - Maintain security and integrity of platform data
 - Manage user access and permissions
 
 ---
 
-## 📸 User Interface Previews
+## User Interface Previews
 
 | Role | Feature | UI Preview |
 |------|---------|------------|
@@ -60,7 +59,7 @@
 ---
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript / React / Tailwind
 - **Backend:** Node.js / Express / Django / PHP (choose accordingly)
