@@ -1,6 +1,6 @@
 # CareerCompass
 
-**CareerCompass** is a smart web platform that helps students find and apply for higher education programs abroad. It bridges the gap between students, universities, professors, and admission officers — all in one centralized and user-friendly system.
+**CareerCompass** is a smart web platform that helps students find and apply for higher education programs abroad. It bridges the gap between students, universities, professors, and admission officers all in one centralized and user-friendly system.
 
 
 ---
@@ -64,7 +64,7 @@
 - **Frontend:** React
 - **Backend:** Node.js, Express 
 - **Database:** MySQL 
-- **Authentication:**OAuth
+- **Authentication:** OAuth
 
 
 ---
