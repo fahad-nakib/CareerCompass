@@ -62,9 +62,9 @@
 ## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript / React / Tailwind
-- **Backend:** Node.js / Express / Django / PHP (choose accordingly)
-- **Database:** MongoDB / MySQL / PostgreSQL
-- **Authentication:** JWT / OAuth
-- **Hosting:** Vercel / Netlify / Heroku / AWS
+- **Backend:** Node.js, Express 
+- **Database:** MySQL 
+- **Authentication:**OAuth
+
 
 ---
