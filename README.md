@@ -61,7 +61,7 @@
 
 ## Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript / React / Tailwind
+- **Frontend:** React
 - **Backend:** Node.js, Express 
 - **Database:** MySQL 
 - **Authentication:**OAuth
